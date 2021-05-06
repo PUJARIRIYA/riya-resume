@@ -1,0 +1,39 @@
+h1{
+    background-color:lightgray;
+    text-align: center;
+    border: rgba(180, 138, 128, 0.274) dashed ;
+    border-radius: 25px;
+    color: rgb(31, 3, 3);
+}
+.intro,h2{
+    font-style:bold;
+    font-size: 30px;
+    text-align: left;
+    color:black;
+}
+.intro1,p{
+    background-color:rgb(191, 195, 231);
+    border: rgb(209, 186, 55) solid;
+    color: black;
+    text-align: justify;
+    border-radius: 25px;
+    padding: 10px;
+}
+.me{
+    color: rgb(8, 8, 8);
+}
+.ol,ul{
+    border: rgb(185, 158, 35) solid;
+    text-align: justify;
+    border-radius: 25px;
+    background-color:rgb(191, 195, 231);
+}
+.lang{
+  border:rgb(185,158,35)solid;
+   text-align:justify;
+   border-radius:25px;
+   background-color:rgb(191,195,231);
+}
+body{
+    background-color:beige;
+}
